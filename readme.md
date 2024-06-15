@@ -22,7 +22,7 @@ pública contemporâneos no Brasil.
 * Scikit-Learn
 * Matplotlib
 
-## Authors 
+## Autores 
 
 🐤 [Andrey Watanuki](https://github.com/andreywata)
 
