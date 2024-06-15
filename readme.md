@@ -6,7 +6,7 @@
 
 Este estudo aborda a identificação de padrões do Índice de Massa
 Corporal (IMC) no Brasil entre 2006 e 2023, utilizando dados do sistema
-VIGITEL. Ao analisar os principais componentes. A análise sublinha a
+VIGITEL ao analisar os principais componentes. A análise sublinha a
 urgência de intervenções políticas e estratégias de saúde pública para
 combater essa escalada da obesidade e suas comorbidades. Este artigo
 oferece uma análise para formuladores de políticas, profissionais de
